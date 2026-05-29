@@ -14,7 +14,7 @@ OS: Windows 11
 Shell: Windows PowerShell
 IDE: VScode
 Location: Brazil
-Skills: JavaScript, Lua, HTML, CSS, React, NextJS
+Skills: JavaScript, HTML, CSS, React, NextJS
 Learning: Python
 ```
 
