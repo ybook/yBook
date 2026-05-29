@@ -15,7 +15,7 @@ Shell: Windows PowerShell
 IDE: VScode
 Location: Brazil
 Skills: JavaScript, Lua, HTML, CSS, React, NextJS
-Learning: 
+Learning: Python
 ```
 
 <br clear="left"/>
